@@ -1,8 +1,8 @@
 <span id="a">jacob@vaandrager</span>:<span id="b">~</span><span id="c">$</span> cd JacobVaandrager/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">jacob@vaandrager</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->jacobvaandrager.txt<br/><br/>
 
-Hey There! My name is Jacob and I'm currently studying UX design. On the side, I love to program.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I specialize in iOS development; Swift & SwiftUI with a, say something about game programming</p>
-<p>I am currently based in The Hague, The Netherlands but grew up in Bahrain</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Here we can connect on<a href="https://www.linkedin.com/in/jacob-f-vaandrager-5b9224143/"> LinkedIn</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+Hey There! My name is Jacob and I'm currently studying <span id="a">UX design</span>. On the side, I love to <span id="c">program</span>.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I specialize in iOS development; Swift & SwiftUI and occasionally make games using Unity.</p>
+<p>I am currently based in The Hague, The Netherlands but grew up in Bahrain.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 If you hit<span id="k"> enter </span><!-- slightdelayhere-->, you can see all my projects<!-- longlonglongcomment -->
+<span id="a">jacob@vaandrager</span>:<span id="b">~</span><span id="c">$</span> <!-- kjsdfhkjdhsfkjdshfkj -->
