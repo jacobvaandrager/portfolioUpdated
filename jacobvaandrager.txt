@@ -1,6 +1,6 @@
 <span id="a">jacob@vaandrager</span>:<span id="b">~</span><span id="c">$</span> cd JacobVaandrager/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-Currently Studying UX Design, "<span id="k"> with a love for programming,</span>". <!-- sjkfhskjf -->
+<span id="a">jacob@vaandrager</span>:<span id="b">~</span><span id="c">$</span> admin <!-- kjsdfhkjdhsfkjdshfkj -->jacobvaandrager.txt<br/><br/>
+Currently Studying UX Design, <span id="k"> with a love for programming.</span>. <!-- sjkfhskjf -->
 
 Hey There! My name is Jacob, blah blah blah.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>LOREN IPSUMSKLDJFNJSDN SJdnflkjs SDOJFN</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
