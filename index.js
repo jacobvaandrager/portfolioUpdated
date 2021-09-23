@@ -107,3 +107,9 @@ function t() {
     clearInterval(timer);
   }
 }
+
+$(document).keyup(function(event) {
+    if (event.which === 13) {
+        window.location.replace("https://jacobvaandrager.com/");
+    }
+});
